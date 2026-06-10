@@ -47,3 +47,13 @@ Saman Ziarati
 ## License
 
 This project is open-source and available for learning and personal use.
+
+## Screenshots
+
+### Main Window
+
+![Main Window](screenshots/main_window.png)
+
+### Loan Manager
+
+![Loan Manager](screenshots/loan_window.png)
