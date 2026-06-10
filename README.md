@@ -51,9 +51,7 @@ This project is open-source and available for learning and personal use.
 ## Screenshots
 
 ### Main Window
+![Main Window](main_window.png)
 
-![Main Window](github project/main_window.png)
-
-### Loan Manager
-
-![Loan Manager](github project/loan_window.png)
+### Loan Window
+![Loan Window](loan_window.png)
